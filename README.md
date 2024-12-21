@@ -23,11 +23,12 @@ This is made to quickly caption a folder full of images using Florence 2
 
 ## How To Use
     
-1. Run the bot:
+
+1. Insert images into the images folder
+2. Run the bot:
     ```bash
     python main.py
     ```
-2. Insert images into the images folder
   
 3. You can find a txt containing the caption inside the images folder.
 
