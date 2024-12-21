@@ -5,7 +5,7 @@ Better ones might already exist.
 This is made to quickly caption a folder full of images using Florence 2
 
 ## How to install
-1. Clone the Aktiva AI repository:
+1. Clone the Captioner repository:
     ```bash
     git clone https://github.com/Iteranya/Captioner.git
     cd Captioner
@@ -32,4 +32,5 @@ This is made to quickly caption a folder full of images using Florence 2
 3. You can find a txt containing the caption inside the images folder.
 
 
-
+## Credits
+- Model Used: https://huggingface.co/MiaoshouAI/Florence-2-base-PromptGen-v2.0
