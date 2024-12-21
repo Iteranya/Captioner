@@ -1,4 +1,4 @@
-# Image Captione
+# Image Captioner
 
 Better ones might already exist.
 
